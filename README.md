@@ -16,3 +16,5 @@
 python testyuv.py  --input="/QP51/rec/andrew_vox10.ply" --weight="/weight/andrew_vox10.ply" --ori="/ori/andrew_vox10.ply" --ckpt_dir_y='/Predlift/checkpoints/QP51/y/' --ckpt_dir_u='/Predlift/checkpoints/QP51/u/' --ckpt_dir_v='/Predlift/checkpoints/QP51/v/'
 ```
 The  original point cloud (ori) is used to calculate PSNR.
+
+## If you have any questions, please contact me (xhsheng@mail.ustc.edu.cn). I will try my best to solve your concerns.
