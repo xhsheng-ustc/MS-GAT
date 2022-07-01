@@ -17,4 +17,4 @@ python testyuv.py  --input="/QP51/rec/andrew_vox10.ply" --weight="/weight/andrew
 ```
 The  original point cloud (ori) is used to calculate PSNR.
 
-## If you have any questions, please contact me (xhsheng@mail.ustc.edu.cn). I will try my best to solve your concerns.
+If you have any questions, please contact me (xhsheng@mail.ustc.edu.cn). I will try my best to solve your concerns.
