@@ -1,4 +1,4 @@
-# This repo holds the code for the paper: Artifacts Removal for Geometry-based Point Cloud Compression. https://ieeexplore.ieee.org/document/9767661
+# This repo holds the code for the paper: Attribute Artifacts Removal for Geometry-based Point Cloud Compression. https://ieeexplore.ieee.org/document/9767661
 ## Requirement
 - tensorflow-gpu 1.13.1
 - open3d
